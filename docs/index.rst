@@ -8,7 +8,7 @@ Why Choose Thunderbird?
 -------------------------
 Thunderbird offers several advantages over other email clients. First and foremost, it is open-source and completely free, meaning users can access its features without any subscription fees or hidden costs. Thunderbird also places a strong emphasis on security and privacy, incorporating robust encryption methods and spam protection features to keep your communication safe.
 
-.. image:: https://how-to-download-nordpass.readthedocs.io/en/latest/_images/click-download.png
+.. image:: click-download.png
    :alt: My Project Logo
    :width: 400px
    :align: center
